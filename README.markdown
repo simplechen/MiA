@@ -1,3 +1,7 @@
+测试样本数据下载
+http://grouplens.org/datasets/movielens/
+
+
 Source code for 'Mahout in Action' book
 ==========
 
